@@ -14,4 +14,13 @@ Global
 		{981E0784-3180-476E-A25A-64FAFF6C8ED2}.Release|x86.ActiveCfg = Release|x86
 		{981E0784-3180-476E-A25A-64FAFF6C8ED2}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.StandardHeader = $2
+		$2.Text = @/** \n *  Class to demo ...\n *  \n * @author Alan Cowap \n * @version 1.0  \n * @dependencies None\n *  \n */\n
+		$2.IncludeInNewFiles = True
+	EndGlobalSection
 EndGlobal
