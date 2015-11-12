@@ -13,7 +13,7 @@ namespace ICTAP_Console
 {
 	public class ArrayApp
 	{
-		public static void Main (string[] args)
+		public static void Main2 (string[] args)
 		{
 			Console.WriteLine ("Welcome to ArrayApp");
 
@@ -43,6 +43,10 @@ namespace ICTAP_Console
 				int number = numArray [i];
 				Console.WriteLine (number);
 			}
+
+			int num = 7 / 5;
+			Console.WriteLine ("Answer is " + num);
+
 
 			Console.Write ("\nPress RETURN to continue");
 			Console.Read ();
