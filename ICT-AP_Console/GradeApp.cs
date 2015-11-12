@@ -1,5 +1,5 @@
 ﻿/** 
- *  Simple class to demo if statement
+ *  Simple class to demo if statement, do-while loop
  *  
  * @author Alan Cowap 
  * @version 1.0  
@@ -13,7 +13,7 @@ namespace ICTAP_Console
 {
 	public class GradeApp
 	{
-		public static void Main(string[] args)
+		public static void Main2(string[] args)
 		{
 			Console.WriteLine ("Welcome to GradeApp");
 
