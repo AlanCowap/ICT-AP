@@ -1,19 +1,19 @@
-﻿// /** 
-//  *  Class to demo arrays, for loops
-//  *  
-//  * @author Alan Cowap 
-//  * @version 1.0  
-//  * @dependencies None
-//  *  
-//  */
-//
+﻿/** 
+*  Class to demo arrays, for loops
+*  
+* @author Alan Cowap 
+* @version 1.0  
+* @dependencies None
+*  
+*/
+
 using System;
 
 namespace ICTAP_Console
 {
 	public class StatApp
 	{
-		public static void Main (string[] args)
+		public static void Main2 (string[] args)
 		{
 			Console.WriteLine ("Welcome to ArrayApp");
 

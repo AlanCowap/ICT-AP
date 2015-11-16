@@ -39,6 +39,7 @@
     <Compile Include="FileApp.cs" />
     <Compile Include="ArrayApp.cs" />
     <Compile Include="StatApp.cs" />
+    <Compile Include="MethodApp.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
