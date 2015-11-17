@@ -14,7 +14,7 @@ namespace ICTAP_Console
 {
 	public class MethodApp
 	{
-		public static void Main (string[] args)
+		public static void Main2 (string[] args)
 		{
 			Console.WriteLine ("Welcome to MethodApp");
 			int[] data = {1,2,3,4,5};
