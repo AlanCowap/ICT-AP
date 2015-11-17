@@ -1,4 +1,13 @@
-﻿using System;
+﻿// /** 
+//  *  Class to demo Class definition, State, Behaviour
+//  *  
+//  * @author Alan Cowap 
+//  * @version 1.0  
+//  * @dependencies None
+//  *  
+//  */
+//
+using System;
 
 namespace ICTAP_Console
 {

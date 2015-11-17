@@ -1,5 +1,5 @@
 ﻿// /** 
-//  *  Class to demo ...
+//  *  Class to demo Class definition, State, Behaviour, ObjectCreation
 //  *  
 //  * @author Alan Cowap 
 //  * @version 1.0  
@@ -13,7 +13,7 @@ namespace ICTAP_Console
 {
 	public class PersonApp
 	{
-		public static void Main (string[] args)
+		public static void Main2 (string[] args)
 		{
 			Console.WriteLine ("Welcome to PersonApp");	
 

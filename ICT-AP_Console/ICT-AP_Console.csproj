@@ -42,6 +42,7 @@
     <Compile Include="MethodApp.cs" />
     <Compile Include="PersonApp.cs" />
     <Compile Include="Person.cs" />
+    <Compile Include="SimpleIO.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
